@@ -13,13 +13,14 @@ A 2D car racing game built with Python and Pygame where players avoid obstacles 
 - Python 3.6+
 - Pygame 2.0+
 
-##Required files:
-###Audio
+## Required files:
+
+### Audio
 - crash.mp3
 - score.mp3
 - engine.mp3
 
-###Image
+### Image
 - Person.png
 - barrier.png
 - car.png
